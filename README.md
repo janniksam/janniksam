@@ -4,7 +4,7 @@ I am a german .NET software developer, currently working for the Lower Saxonys j
 
 ## My favorite projects I worked on:
 
-- [:cake: Cake.Issues.DupFinder](https://github.com/cake-contrib/Cake.Issues.DupFinder)
+- [:cake: Cake.Issues.DupFinder](https://github.com/cake-contrib/Cake.Issues.DupFinder) (including some other small contributions to [Cake.Issues](https://github.com/cake-contrib/Cake.Issues) related projects)
 - [:mag: SSMLVerifier](https://github.com/janniksam/SSMLVerifier)
 - [:bulb: Akinator.Api.Net](https://github.com/janniksam/Akinator.Api.Net)
 - [:video_game: RoleServant](https://role-servant.me)

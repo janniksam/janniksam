@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a german .NET software developer, currently working for the Lower Saxonys justice system.
+I am a german .NET software developer, currently working for the Lower Saxony justice system.
 
 ## My favorite projects I worked on:
 
